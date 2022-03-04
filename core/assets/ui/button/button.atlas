@@ -1,0 +1,29 @@
+button.png
+size: 54, 18
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button_hover
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  split: 2, 2, 2, 2
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+button_idle
+  rotate: false
+  xy: 19, 1
+  size: 16, 16
+  split: 2, 2, 2, 2
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+button_pressed
+  rotate: false
+  xy: 37, 1
+  size: 16, 16
+  split: 2, 2, 2, 2
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
